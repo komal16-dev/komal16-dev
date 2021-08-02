@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on Data Analytics by Google
-- 🌱 I’m currently persueing bachelors in Computer Engineering
+- 🌱 I’m currently pursuing bachelors in Computer Engineering
 - 👯 I’m looking to collaborate on Web & Android projects
 - 💬 Ask me about Web dev related Stuff
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/komal-gangurde/) 
